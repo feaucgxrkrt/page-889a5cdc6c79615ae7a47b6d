@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f3a133f9a2.batuwu.cn/sitemap.xml
